@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#00BFFF;">Devarajugattu Naga Karthik</span></h1>
-<h3 align="center">💻 Full Stack Developer | 🧠 AI & ML Enthusiast | ☁️ DevOps Learner</h3>
-
----
+<h3 align="center">💻 Information Tecknology student | Passionate about AI, ML, and Web Development | Exploring Open Source 🚀</h3>
 
 ### 🧩 About Me  
 
