@@ -10,7 +10,7 @@
 🧑‍💻 Love turning ideas into reality through **code, automation, and innovation**.  
 🤝 Open to collaborating on **Open Source, AI, or Flutter projects**.  
 📫 Reach me at: **devarajugattunagakarthik@gmail.com**  
-🔗 Connect on [LinkedIn](https://www.linkedin.com/in/devarajugattunagakarthik)  
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/devarajugattu-naga-karthik)  
 🗣️ Pronouns: **He / Him**  
 
 ---
