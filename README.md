@@ -23,14 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devarajugattu-Naga-Karthik&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devarajugattu-Naga-Karthik&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
-
----
 
 ### 🌟 Top Languages  
 
@@ -51,7 +43,7 @@
 ### 💬 Let's Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devarajugattunagakarthik">
+  <a href="https://www.linkedin.com/in/devarajugattu-naga-karthik">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:devarajugattunagakarthik@gmail.com">
@@ -64,17 +56,3 @@
 
 ---
 
-### 🧡 Quote of the Day  
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devarajugattu-Naga-Karthik&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devarajugattu-Naga-Karthik&bg_color=0d1117&color=1abc9c&line=2ecc71&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
